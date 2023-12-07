@@ -3,5 +3,5 @@
 #Create 
 from .base import Base as base
 
-def Run():
-    base.CreateString(41241)
+def Run(): #Example length (You can change this to any length
+    base.CreateString(12)
